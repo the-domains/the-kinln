@@ -1,7 +1,7 @@
 name: The kinln
 favicon: null
 layout_spectrum: 0.9873524
-typography_spectrum: 1
+typography_spectrum: 0.8845
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FB6E5B'
-    - '#301F16'
-    - '#924954'
-    - '#BDCF77'
-    - '#FFA499'
-  brandStrength: 0.7613828
-  lightness: 0.8271501
-  saturation: 0.232715
-  rhythmicContrast: 0.1433389
+    - '#eae6db'
+    - '#283c55'
+    - '#820e11'
+    - '#d05c23'
+    - '#526a82'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
