@@ -1,9 +1,7 @@
-favicon: null
 name: The kinln
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9873524
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.232715
-  brandStrength: 0.7613828
-  lightness: 0.8271501
   brandColors:
     - '#FB6E5B'
     - '#301F16'
     - '#924954'
     - '#BDCF77'
     - '#FFA499'
+  brandStrength: 0.7613828
+  lightness: 0.8271501
+  saturation: 0.232715
   rhythmicContrast: 0.1433389
-typography_spectrum: 1
-layout_spectrum: 0.9873524
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
