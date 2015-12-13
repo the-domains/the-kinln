@@ -1,0 +1,28 @@
+name: The kinln
+favicon: null
+layout_spectrum: 0.09072138532064855
+typography_spectrum: 0.8335072076879442
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.49940711352974176
+  lightness: 0.85827397252433
+  saturation: 0.1444746507331729
+  rhythmicContrast: 0.14355087536387146
+purpose: []
