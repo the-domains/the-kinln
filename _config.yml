@@ -1,40 +1,40 @@
-name: The kinln
-favicon: null
-layout_spectrum: 0.9873524
-typography_spectrum: 0.8845
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+purpose: []
+color:
+  saturation: 0.4375
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#1E394B'
+    - '#927F79'
+    - '#BDDFE0'
+    - '#ABACA3'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.1684588
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#eae6db'
-    - '#283c55'
-    - '#820e11'
-    - '#d05c23'
-    - '#526a82'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.4375
-  rhythmicContrast: 0.5
-purpose: []
+  domain: null
+layout_spectrum: 0.9408602
+favicon: null
+name: The kinln
